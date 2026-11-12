@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Sample One",
+    "year": "2026",
+    "medium": "Oil on canvas",
+    "image": "images/sample-1.svg",
+    "alt": "Placeholder artwork"
+  },
+  {
+    "title": "Sample Two",
+    "year": "2026",
+    "medium": "Watercolor",
+    "image": "images/sample-2.svg",
+    "alt": "Placeholder artwork"
+  },
+  {
+    "title": "Sample Three",
+    "year": "2025",
+    "medium": "Charcoal",
+    "image": "images/sample-3.svg",
+    "alt": "Placeholder artwork"
+  }
+]
